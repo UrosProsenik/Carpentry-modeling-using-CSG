@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Bolfeng\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Seminar_CSG_carpetnery.1136410436.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Bolfeng\Dropbox\Fakulteta_za_Racunalnistvo_in_Informatiko\2017_2018\Napredna_racunalniska_grafika\Seminarska_naloga\Seminar_CSG_carpetnery" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Export" t="Include">
+          <e p="exported_file.txt" t="Include" />
+          <e p="test.txt" t="Include" />
+          <e p="test1.txt" t="Include" />
+          <e p="wierd_test.txt" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraControls.cs" t="Include" />
+          <e p="CSG" t="Include">
+            <e p="Classes" t="Include">
+              <e p="CSG_Model.cs" t="Include" />
+              <e p="CSG_Node.cs" t="Include" />
+              <e p="CSG_Plane.cs" t="Include" />
+              <e p="CSG_Polygon.cs" t="Include" />
+              <e p="CSG_Vertex.cs" t="Include" />
+            </e>
+            <e p="CSG.cs" t="Include" />
+          </e>
+          <e p="CSGOperations.cs" t="Include" />
+          <e p="FileHandler.cs" t="Include" />
+          <e p="Gizmo" t="Include">
+            <e p="Helpers" t="Include">
+              <e p="ExtVector3.cs" t="Include" />
+              <e p="Geometry.cs" t="Include" />
+            </e>
+            <e p="Objects" t="Include">
+              <e p="AxisInfo.cs" t="Include" />
+              <e p="AxisVectors.cs" t="Include" />
+              <e p="Enums.cs" t="Include" />
+              <e p="ExtMathf.cs" t="Include" />
+              <e p="IntersectPoints.cs" t="Include" />
+              <e p="Square.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="Resources" t="Include">
+                <e p="Lines.shader" t="Include" />
+              </e>
+            </e>
+            <e p="TransformGizmo.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="Wireframe.shader" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Seminar_CSG_carpetnery.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

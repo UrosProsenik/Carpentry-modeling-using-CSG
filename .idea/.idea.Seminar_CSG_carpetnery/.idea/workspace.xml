@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e66d1a4f-0abb-4c45-8430-962a71f496a3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CSGOperations.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CSGOperations.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="149" column="31" lean-forward="false" selection-start-line="149" selection-start-column="31" selection-end-line="149" selection-end-column="31" />
+              <folding>
+                <marker date="1515598398187" expanded="false" signature="6:107" ph="..." />
+                <marker date="1515598398187" expanded="true" signature="151:10542" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="598:642" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="656:695" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="712:922" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="975:1122" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="981:1119" ph="/* ReconstructOperationHistory(GetComponent&lt;FileHandler&gt;().ReadFile()); ... */" />
+                <marker date="1515598398187" expanded="false" signature="1146:1218" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="1283:1499" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="1545:1992" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="1622:1661" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="1717:1927" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="2052:2179" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="2106:2176" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="2242:2563" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="2272:2376" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="2385:2560" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="2613:2701" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="2728:2822" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="2850:2946" ph="{...}" />
+                <marker date="1515598398187" expanded="true" signature="2992:4478" ph="{...}" />
+                <marker date="1515598398187" expanded="true" signature="3230:3843" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="4526:4641" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="4699:4804" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="4754:4801" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="4895:5349" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="4990:5147" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="5179:5346" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="5455:6167" ph="{...}" />
+                <marker date="1515598398187" expanded="true" signature="6280:7341" ph="{...}" />
+                <marker date="1515598398187" expanded="true" signature="6773:7026" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="7408:8994" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="7502:8991" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="7650:7750" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="8331:8445" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="8482:8987" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="9051:10540" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="9201:9301" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="9881:9995" ph="{...}" />
+                <marker date="1515598398187" expanded="false" signature="10032:10537" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CSG.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CSG/CSG.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <marker date="1464067680000" expanded="true" signature="0:756" ph="/* Original CSG.JS library by Evan Wallace (http://madebyevan.com), under the MIT license. ... */" />
+                <marker date="1464067680000" expanded="false" signature="764:836" ph="..." />
+                <marker date="1464067680000" expanded="true" signature="859:2765" ph="{...}" />
+                <marker date="1464067680000" expanded="true" signature="863:1062" ph="/* Base class for CSG operations.  Contains GameObject level methods for Subtraction, Intersection, and Union ope ... */" />
+                <marker date="1464067680000" expanded="true" signature="1080:2763" ph="{...}" />
+                <marker date="1464067680000" expanded="true" signature="1125:1266" ph="/// &lt; Tolerance used by `splitPolygon()` to decide if a point is on the plane. ... " />
+                <marker date="1464067680000" expanded="true" signature="1206:1266" ph="/* Returns a new mesh by merging @lhs with @rhs. ... */" />
+                <marker date="1464067680000" expanded="true" signature="1325:1689" ph="{...}" />
+                <marker date="1464067680000" expanded="true" signature="1693:1757" ph="/* Returns a new mesh by subtracting @rhs from @lhs. ... */" />
+                <marker date="1464067680000" expanded="true" signature="1819:2186" ph="{...}" />
+                <marker date="1464067680000" expanded="true" signature="2190:2329" ph="/* Return a new mesh by intersecting @lhs with @rhs.  This operation ... */" />
+                <marker date="1464067680000" expanded="true" signature="2392:2760" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileHandler.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FileHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <marker date="1515598362142" expanded="true" signature="0:91" ph="/* using System; ... */" />
+                <marker date="1515598362142" expanded="true" signature="152:1144" ph="{...}" />
+                <marker date="1515598362142" expanded="true" signature="155:1142" ph="/* Look of an CSG operation . Everything in one line seperated with , ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CSGOperations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/1a/57877e9f/MeshFilter.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FileHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CSG/CSG.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/FileHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CSGOperations.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="500" />
+    <option name="width" value="1100" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Seminar_CSG_carpetnery (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e66d1a4f-0abb-4c45-8430-962a71f496a3" name="Default" comment="" />
+      <created>1515586768410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515586768410</updated>
+      <workItem from="1515586774989" duration="2251000" />
+      <workItem from="1515604803702" duration="2552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4803000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="500" y="0" width="1100" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12915128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CSGOperations.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1515598398187" expanded="false" signature="6:107" ph="..." />
+            <marker date="1515598398187" expanded="true" signature="151:10542" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="598:642" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="656:695" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="712:922" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="975:1122" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="981:1119" ph="/* ReconstructOperationHistory(GetComponent&lt;FileHandler&gt;().ReadFile()); ... */" />
+            <marker date="1515598398187" expanded="false" signature="1146:1218" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="1283:1499" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="1545:1992" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="1622:1661" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="1717:1927" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2052:2179" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2106:2176" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2242:2563" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2272:2376" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2385:2560" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2613:2701" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2728:2822" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2850:2946" ph="{...}" />
+            <marker date="1515598398187" expanded="true" signature="2992:4478" ph="{...}" />
+            <marker date="1515598398187" expanded="true" signature="3230:3843" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="4526:4641" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="4699:4804" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="4754:4801" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="4895:5349" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="4990:5147" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="5179:5346" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="5455:6167" ph="{...}" />
+            <marker date="1515598398187" expanded="true" signature="6280:7341" ph="{...}" />
+            <marker date="1515598398187" expanded="true" signature="6773:7026" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="7408:8994" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="7502:8991" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="7650:7750" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="8331:8445" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="8482:8987" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="9051:10540" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="9201:9301" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="9881:9995" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="10032:10537" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <marker date="1515598362142" expanded="true" signature="0:91" ph="/* using System; ... */" />
+            <marker date="1515598362142" expanded="true" signature="152:1144" ph="{...}" />
+            <marker date="1515598362142" expanded="true" signature="155:1142" ph="/* Look of an CSG operation . Everything in one line seperated with , ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/1a/57877e9f/MeshFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CSGOperations.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="149" column="31" lean-forward="false" selection-start-line="149" selection-start-column="31" selection-end-line="149" selection-end-column="31" />
+          <folding>
+            <marker date="1515598398187" expanded="false" signature="6:107" ph="..." />
+            <marker date="1515598398187" expanded="true" signature="151:10542" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="598:642" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="656:695" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="712:922" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="975:1122" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="981:1119" ph="/* ReconstructOperationHistory(GetComponent&lt;FileHandler&gt;().ReadFile()); ... */" />
+            <marker date="1515598398187" expanded="false" signature="1146:1218" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="1283:1499" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="1545:1992" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="1622:1661" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="1717:1927" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2052:2179" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2106:2176" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2242:2563" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2272:2376" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2385:2560" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2613:2701" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2728:2822" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="2850:2946" ph="{...}" />
+            <marker date="1515598398187" expanded="true" signature="2992:4478" ph="{...}" />
+            <marker date="1515598398187" expanded="true" signature="3230:3843" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="4526:4641" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="4699:4804" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="4754:4801" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="4895:5349" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="4990:5147" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="5179:5346" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="5455:6167" ph="{...}" />
+            <marker date="1515598398187" expanded="true" signature="6280:7341" ph="{...}" />
+            <marker date="1515598398187" expanded="true" signature="6773:7026" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="7408:8994" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="7502:8991" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="7650:7750" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="8331:8445" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="8482:8987" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="9051:10540" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="9201:9301" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="9881:9995" ph="{...}" />
+            <marker date="1515598398187" expanded="false" signature="10032:10537" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CSG/CSG.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <marker date="1464067680000" expanded="true" signature="0:756" ph="/* Original CSG.JS library by Evan Wallace (http://madebyevan.com), under the MIT license. ... */" />
+            <marker date="1464067680000" expanded="false" signature="764:836" ph="..." />
+            <marker date="1464067680000" expanded="true" signature="859:2765" ph="{...}" />
+            <marker date="1464067680000" expanded="true" signature="863:1062" ph="/* Base class for CSG operations.  Contains GameObject level methods for Subtraction, Intersection, and Union ope ... */" />
+            <marker date="1464067680000" expanded="true" signature="1080:2763" ph="{...}" />
+            <marker date="1464067680000" expanded="true" signature="1125:1266" ph="/// &lt; Tolerance used by `splitPolygon()` to decide if a point is on the plane. ... " />
+            <marker date="1464067680000" expanded="true" signature="1206:1266" ph="/* Returns a new mesh by merging @lhs with @rhs. ... */" />
+            <marker date="1464067680000" expanded="true" signature="1325:1689" ph="{...}" />
+            <marker date="1464067680000" expanded="true" signature="1693:1757" ph="/* Returns a new mesh by subtracting @rhs from @lhs. ... */" />
+            <marker date="1464067680000" expanded="true" signature="1819:2186" ph="{...}" />
+            <marker date="1464067680000" expanded="true" signature="2190:2329" ph="/* Return a new mesh by intersecting @lhs with @rhs.  This operation ... */" />
+            <marker date="1464067680000" expanded="true" signature="2392:2760" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <marker date="1515598362142" expanded="true" signature="0:91" ph="/* using System; ... */" />
+            <marker date="1515598362142" expanded="true" signature="152:1144" ph="{...}" />
+            <marker date="1515598362142" expanded="true" signature="155:1142" ph="/* Look of an CSG operation . Everything in one line seperated with , ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

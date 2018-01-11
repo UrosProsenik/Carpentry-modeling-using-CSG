@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 7aa51e029efad5c4abc3ef2089789cd3
+timeCreated: 1514674928
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sphere_prefab: {fileID: 1332378043240584, guid: 03ec99cab5e702f41a3a82f19132e68d,
+      type: 2}
+  - cube_prefab: {fileID: 1762417329672686, guid: 96d2b5ebba1e71b49a75f9ec43caa626,
+      type: 2}
+  - cylinder_prefab: {fileID: 1983950586959246, guid: 7c3e4eab0de7b1e4eb217f27bb8ef4aa,
+      type: 2}
+  - translate_gizmo: {fileID: 1303586369874658, guid: 0aaf3233a037cd74491cb0ddde584b2c,
+      type: 2}
+  - rotate_gizmo: {fileID: 1764953248917828, guid: bc8e6ff4cf93703459e4bbf5f8be814c,
+      type: 2}
+  - scale_gizmo: {fileID: 1132228157747530, guid: 10aa57975b96eb14d86b1800dde005a5,
+      type: 2}
+  - wireframeMaterial: {fileID: 2100000, guid: 7249d5446da713e4b96ce4bec901ddc4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
